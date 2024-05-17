@@ -5,7 +5,7 @@ This is the backend of the project "Manage Fanpage and Sentiment Analysis WebAPP
 Database is host on Supabase, a cloud database service that provides a Postgres database. The database is used to store the information of the users and the fanpages. The user information is used to authenticate the users and the fanpage information is used to get the posts and comments of the fanpages.
 
 If you want to see the frontend of the project, you can go to the following link:
-[Manage Fanpage and Sentiment Analysis WebAPP - FRONTEND]()
+[Manage Fanpage and Sentiment Analysis WebAPP - FRONTEND](https://github.com/Bagumeow/Sentiment_Facebook_FE)
 
 ## Installation
  You can install the required packages by running the following command:
