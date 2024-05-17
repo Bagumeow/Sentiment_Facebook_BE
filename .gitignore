@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.docx
+sentiment_jack.ipynb
+sentiment_mtp.ipynb

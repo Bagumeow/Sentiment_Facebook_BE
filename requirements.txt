@@ -1,0 +1,15 @@
+transformers[torch]
+underthesea
+fastapi
+python-jose
+passlib
+psycopg2-binary
+python-dotenv==0.15.0
+python-multipart
+uvicorn
+cryptography==3.4.8
+bcrypt
+validators==0.22.0
+python-dotenv
+bs4
+tiktoken
